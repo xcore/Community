@@ -9,7 +9,7 @@ XCore open source project Community repo
 
 :Description:  Guidelines for community and code interaction
 
-.. _davelxmos: https://github.com/DavidNorman
+.. _davelxmos: https://github.com/davelxmos
 
 Key Features
 ============
