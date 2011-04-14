@@ -1,0 +1,6 @@
+10.4.2 XDE Usage
+================
+
+In the 10.4.2 XDE you cannot use EGit but you can import projects once you have cloned them to a working directory using git. 
+To do this go to File \> Import \> General \> Existing Projects Into Workspace. Click on Select root directory and then 
+click on Browse. If you then select the repository directory you should be able to import a project representing the repository.
