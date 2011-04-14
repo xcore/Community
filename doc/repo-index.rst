@@ -7,15 +7,25 @@ repositories appear, held in a *miscellaneous* category. These categories
 are necessarily crude, and will hopefully improve over time.
 
 - Software components and applications that execute on an XCore:
+
   - I/O:
+
     - `Serial interfaces`_ such as SPI, UART, JTAG, ...
+
     - `Analogue interfaces`_ such as PWM
+
   - `Networking`_ such as USB, Ethernet
+
   - `Numerical`_ fixed point, DSP, filters, transforms
+
   - `Unclassified applications`_ Miscellaneous applications.
+
 - `Boards`_ standard software on boards.
+
 - `Tools`_ compilers, debuggers, probing
+
 - `Documents`_ 
+
 - `Infrastructure`_ needed for any or some of the above.
 
 
