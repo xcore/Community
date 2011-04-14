@@ -2,6 +2,9 @@ Repository index
 ================
 
 TO BE DONE
+`ap_led_tile_controller </xcore/ap_led_tile_controller>`_
+`ap_led_tile_controller <http://github.com/xcore/ap_led_tile_controller>`_
+`ap_led_tile_controller </xcore/ap_led_tile_controller>`_
 
 =============================================================== =========================================================================================================
 Repo                                                            Purpose
