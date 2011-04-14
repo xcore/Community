@@ -3,6 +3,9 @@ Repository index
 
 TO BE DONE
 
+=============================================================== =========================================================================================================
+Repo                                                            Purpose
+=============================================================== =========================================================================================================
 `ap_led_tile_controller </xcore/ap_led_tile_controller >`       LED Tile Controller
 
 `ap_par_audio_dsp </xcore/ap_par_audio_dsp >`                   XMOS Parallel Audio DSP example
@@ -49,3 +52,4 @@ TO BE DONE
 `xcore.github.com </xcore/xcore.github.com >`                   These sources.
 `xcore_template </xcore/xcore_template >`                       A template for a xmos repository module
 `xdoc </xcore/xdoc >`                                           Common infrastructure for code documentation
+=============================================================== =========================================================================================================
